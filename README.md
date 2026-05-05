@@ -155,12 +155,16 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 <br>
 
 <div align="center">
-  <img width="390" src="https://github-readme-stats.vercel.app/api?username=houssamb6&theme=transparent&count_private=true&show_icons=true&rank_icon=github&locale=en" alt="Houssam Boussetta's GitHub Stats" />
 
-  <img width="390" src="https://github-readme-streak-stats.herokuapp.com/?user=houssamb6&theme=transparent&border_radius=10&locale=en" alt="Houssam Boussetta's GitHub Streak" />
+  <img width="390" src="https://github-readme-stats.vercel.app/api?username=houssamb6&theme=tokyonight&hide_border=true&show_icons=true&rank_icon=github&locale=en" alt="Houssam Boussetta's GitHub Stats" />
 
-  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs?username=houssamb6&theme=transparent&layout=donut&hide=css&langs_count=8&border_radius=10&show_icons=true&locale=en" alt="Houssam Boussetta's Most Used Languages" />
+  <img width="390" src="https://streak-stats.demolab.com?user=houssamb6&theme=tokyonight&hide_border=true&border_radius=10&locale=en" alt="Houssam Boussetta's GitHub Streak" />
+
+  <img width="325" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&theme=tokyonight&hide_border=true&layout=donut&hide=css&langs_count=8&border_radius=10&locale=en" alt="Houssam Boussetta's Most Used Languages" />
+
 </div>
+
+<br>
 
 <hr>
 ## 🐍 My Contributions
