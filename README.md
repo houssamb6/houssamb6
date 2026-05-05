@@ -155,23 +155,23 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 <div align="center">
 
 <a href="https://github.com/houssamb6">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=houssamb6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=houssamb6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
 </a>
 &nbsp;&nbsp;
 <a href="https://github.com/houssamb6?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/houssamb6">
-  <img src="https://streak-stats.demolab.com?user=houssamb6&theme=tokyonight&hide_border=true" />
+  <img src="https://github-readme-streak-stats.herokuapp.com?user=houssamb6&theme=tokyonight&hide_border=true" />
 </a>
 
 <br/><br/>
 
 <a href="https://github.com/houssamb6">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight&cache_seconds=86400" />
 </a>
 
 </div>
@@ -208,9 +208,7 @@ Right now I'm going deeper into **agentic AI architectures**, **RAG evaluation &
 
 <br/>
 
-<a href="https://visitcount.itsvg.in">
-  <img src="https://visitcount.itsvg.in/api?id=houssamb6&label=Profile%20Views&color=6&icon=5&pretty=true" />
-</a>
+<img src="https://komarev.com/ghpvc/?username=houssamb6&label=Profile+Views&color=7B2FFF&style=for-the-badge" />
 
 <br/><br/>
 
