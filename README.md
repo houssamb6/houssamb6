@@ -10,6 +10,9 @@
 🌍 Based in Tunisia &nbsp;|&nbsp; Open to internships & collabs
 
 <br/>
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-houssam--boussetta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssam-boussetta)
 [![Gmail](https://img.shields.io/badge/Gmail-houssamboussetta0304-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssamboussetta0304@gmail.com)
