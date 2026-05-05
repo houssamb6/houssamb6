@@ -20,7 +20,7 @@
 
 <br/><br/>
 
-🎓 **2nd Year Engineering Cycle** @ ISIMM, University of Monastir &nbsp;|&nbsp; 🌍 Tunisia &nbsp;|&nbsp; 🚀 Open to internships & collabs
+🎓 **2nd Year Engineering Degree** @ ISIMM, University of Monastir &nbsp;|&nbsp; 🌍 Tunisia &nbsp;|&nbsp; 🚀 Open to internships & collabs
 
 </div>
 
