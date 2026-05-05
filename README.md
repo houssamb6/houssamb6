@@ -2,15 +2,23 @@
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,100:7B2FFF&height=180&section=header&text=Houssam%20Boussetta&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Houssam+👋;AI+Engineer+%26+Full-Stack+Developer;LLM+Agents+%7C+RAG+%7C+Multi-Agent+Systems;Building+things+that+actually+work+✨;if+it+can+be+automated%2C+it+will+be+automated+🤖" alt="Typing SVG" />
+<a href="https://github.com/houssamb6">
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=22&duration=2800&pause=800&color=00F5FF&center=true&vCenter=true&width=900&lines=Hey+there!+I'm+Houssam+%F0%9F%91%8B;AI+Engineer+%26+Full-Stack+Developer;LLM+Agents+%7C+RAG+%7C+Multi-Agent+Systems;Building+things+that+actually+work;if+it+can+be+automated%2C+it+will+be+automated+%F0%9F%A4%96" alt="Typing SVG" />
+</a>
 
 <br/>
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Houssam%20Boussetta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/houssam-boussetta)
-[![Gmail](https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white)](mailto:houssamboussetta0304@gmail.com)
-[![GitHub](https://img.shields.io/badge/GitHub-houssamb6-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/houssamb6)
+<a href="https://linkedin.com/in/houssam-boussetta">
+  <img src="https://img.shields.io/badge/LinkedIn-Houssam%20Boussetta-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+</a>
+<a href="mailto:houssamboussetta0304@gmail.com">
+  <img src="https://img.shields.io/badge/Email-Contact%20Me-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
+</a>
+<a href="https://github.com/houssamb6">
+  <img src="https://img.shields.io/badge/GitHub-houssamb6-181717?style=for-the-badge&logo=github&logoColor=white" />
+</a>
 
-<br/>
+<br/><br/>
 
 🎓 **2nd Year Engineering Cycle** @ ISIMM, University of Monastir &nbsp;|&nbsp; 🌍 Tunisia &nbsp;|&nbsp; 🚀 Open to internships & collabs
 
@@ -24,7 +32,7 @@
 houssam = {
     "role":       "AI Engineer & Full-Stack Developer",
     "focus":      ["LLM Agents", "RAG pipelines", "Multi-agent systems", "Full-stack apps"],
-    "currently":  "Building AI that makes boring processes disappear 🪄",
+    "currently":  "Building AI that makes boring processes disappear",
     "fun_fact":   "I once made a radio station run entirely on AI agents 📻",
     "vibe":       "if it can be automated, it will be automated",
 }
@@ -95,24 +103,48 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 
 **Languages & Frameworks**
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java,cpp,react,fastapi,spring,flask,nodejs" />
+<a href="https://python.org"><img src="https://skillicons.dev/icons?i=python" title="Python" /></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript"><img src="https://skillicons.dev/icons?i=js" title="JavaScript" /></a>
+<a href="https://typescriptlang.org"><img src="https://skillicons.dev/icons?i=ts" title="TypeScript" /></a>
+<a href="https://php.net"><img src="https://skillicons.dev/icons?i=php" title="PHP" /></a>
+<a href="https://java.com"><img src="https://skillicons.dev/icons?i=java" title="Java" /></a>
+<a href="https://isocpp.org"><img src="https://skillicons.dev/icons?i=cpp" title="C++" /></a>
+<a href="https://react.dev"><img src="https://skillicons.dev/icons?i=react" title="React" /></a>
+<a href="https://fastapi.tiangolo.com"><img src="https://skillicons.dev/icons?i=fastapi" title="FastAPI" /></a>
+<a href="https://spring.io/projects/spring-boot"><img src="https://skillicons.dev/icons?i=spring" title="Spring Boot" /></a>
+<a href="https://flask.palletsprojects.com"><img src="https://skillicons.dev/icons?i=flask" title="Flask" /></a>
+<a href="https://nodejs.org"><img src="https://skillicons.dev/icons?i=nodejs" title="Node.js" /></a>
 
 <br/><br/>
 
 **Data, DevOps & Tools**
 
-<img src="https://skillicons.dev/icons?i=postgres,mysql,docker,git,github,linux" />
+<a href="https://postgresql.org"><img src="https://skillicons.dev/icons?i=postgres" title="PostgreSQL" /></a>
+<a href="https://mysql.com"><img src="https://skillicons.dev/icons?i=mysql" title="MySQL" /></a>
+<a href="https://docker.com"><img src="https://skillicons.dev/icons?i=docker" title="Docker" /></a>
+<a href="https://git-scm.com"><img src="https://skillicons.dev/icons?i=git" title="Git" /></a>
+<a href="https://github.com/houssamb6"><img src="https://skillicons.dev/icons?i=github" title="GitHub" /></a>
+<a href="https://linux.org"><img src="https://skillicons.dev/icons?i=linux" title="Linux" /></a>
 
 <br/><br/>
 
 **AI & Automation**
 
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
-![LangGraph](https://img.shields.io/badge/LangGraph-7B2FFF?style=for-the-badge&logoColor=white)
-![RAG](https://img.shields.io/badge/RAG-Retrieval%20Augmented%20Generation-00F5FF?style=for-the-badge)
-![LLM Agents](https://img.shields.io/badge/LLM_Agents-Multi--Agent%20Systems-FF6B6B?style=for-the-badge)
-![n8n](https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white)
-![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
+<a href="https://python.langchain.com">
+  <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" />
+</a>
+<a href="https://langchain-ai.github.io/langgraph">
+  <img src="https://img.shields.io/badge/LangGraph-7B2FFF?style=for-the-badge&logoColor=white" />
+</a>
+<a href="https://huggingface.co">
+  <img src="https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black" />
+</a>
+<a href="https://n8n.io">
+  <img src="https://img.shields.io/badge/n8n-Workflow%20Automation-EA4B71?style=for-the-badge&logo=n8n&logoColor=white" />
+</a>
+<a href="https://openai.com">
+  <img src="https://img.shields.io/badge/OpenAI-412991?style=for-the-badge&logo=openai&logoColor=white" />
+</a>
 
 </div>
 
@@ -122,17 +154,25 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=houssamb6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+<a href="https://github.com/houssamb6">
+  <img height="170" src="https://github-readme-stats.vercel.app/api?username=houssamb6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github" />
+</a>
 &nbsp;&nbsp;
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+<a href="https://github.com/houssamb6?tab=repositories">
+  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8" />
+</a>
 
 <br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=houssamb6&theme=tokyonight&hide_border=true" />
+<a href="https://github.com/houssamb6">
+  <img src="https://streak-stats.demolab.com?user=houssamb6&theme=tokyonight&hide_border=true" />
+</a>
 
 <br/><br/>
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight" />
+<a href="https://github.com/houssamb6">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight" />
+</a>
 
 </div>
 
@@ -144,12 +184,12 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 |---|---|
 | 🥇 | **1st Place** — GreenNovation Hackathon |
 | 🥉 | **3rd Place** — Nuit de l'Info Challenge |
-| 🤗 | **HuggingFace Agents Course** (2025) |
-| 🎮 | **Fundamentals of Deep Learning** — NVIDIA (2025) |
-| 🌊 | **Generative AI with Diffusion Models** — NVIDIA (2025) |
+| 🤗 | [**HuggingFace Agents Course**](https://huggingface.co/learn/agents-course) (2025) |
+| 🎮 | [**Fundamentals of Deep Learning**](https://www.nvidia.com/en-us/training/) — NVIDIA (2025) |
+| 🌊 | [**Generative AI with Diffusion Models**](https://www.nvidia.com/en-us/training/) — NVIDIA (2025) |
 | ⚛️ | **AI-assisted Software Engineering for Quantum Computing** — AI-SEQ (2025) |
-| 🌍 | **One Million Arab Programmers** — Web Development Track |
-| 🧩 | Active on **LeetCode** & **Codeforces** |
+| 🌍 | [**One Million Arab Programmers**](https://www.arabprogrammers.com) — Web Development Track |
+| 🧩 | Active on [**LeetCode**](https://leetcode.com) & [**Codeforces**](https://codeforces.com) |
 | 🎯 | **Sponsorship Manager** @ MTC ISIMM |
 
 ---
@@ -164,13 +204,15 @@ Right now I'm going deeper into **agentic AI architectures**, **RAG evaluation &
 
 <div align="center">
 
-🌐 **Languages I speak:** 🇸🇦 Arabic &nbsp;|&nbsp; 🇬🇧 English &nbsp;|&nbsp; 🇫🇷 French
+**Languages I speak:** Arabic &nbsp;|&nbsp; English &nbsp;|&nbsp; French
 
 <br/>
 
-![Visitor Count](https://profile-counter.glitch.me/houssamb6/count.svg)
+<a href="https://visitcount.itsvg.in">
+  <img src="https://visitcount.itsvg.in/api?id=houssamb6&label=Profile%20Views&color=6&icon=5&pretty=true" />
+</a>
 
-<br/>
+<br/><br/>
 
 *"Automate the boring stuff. Then automate the not-so-boring stuff too."* 🤖
 
