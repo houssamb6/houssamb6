@@ -28,3 +28,27 @@ My main focus is on creating real-world systems powered by:
 
 ```txt
 Agentic AI + RAG + Data Pipelines + Decision Support Systems
+```
+
+🚀 What I Build
+<table> <tr> <td width="50%">
+🤖 Agentic AI Systems
+
+Multi-agent workflows where specialized agents retrieve knowledge, analyze data, reason over context, and generate useful recommendations.
+
+</td> <td width="50%">
+📊 Data-Driven Platforms
+
+Dashboards and pipelines that turn raw data into insights, forecasts, alerts, and decision-support tools.
+
+</td> </tr> <tr> <td width="50%">
+🧩 Full-Stack Products
+
+End-to-end platforms using modern backend, frontend, database, and deployment workflows.
+
+</td> <td width="50%">
+🔬 Applied AI Projects
+
+AI systems designed for real use cases such as wildfire risk, hotel revenue, learning platforms, and market analytics.
+
+</td> </tr> </table>
