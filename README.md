@@ -150,30 +150,48 @@ Built for an e-commerce platform selling traditional Tunisian products internati
 
 ---
 
-## 📊 GitHub Stats
+## ⚡️ GitHub Analytics
+
+<br>
 
 <div align="center">
 
-<a href="https://github.com/houssamb6">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=houssamb6&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&rank_icon=github&cache_seconds=86400" />
-</a>
-&nbsp;&nbsp;
-<a href="https://github.com/houssamb6?tab=repositories">
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=houssamb6&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&cache_seconds=86400" />
-</a>
+  <a href="https://github.com/houssamb6">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=houssamb6&theme=tokyonight" alt="Houssam Boussetta's GitHub Stats" />
+  </a>
 
-<br/><br/>
+  <a href="https://github.com/houssamb6">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=houssamb6&theme=tokyonight" alt="Houssam Boussetta's Repos Per Language" />
+  </a>
 
-<a href="https://github.com/houssamb6">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=houssamb6&theme=tokyonight&hide_border=true" />
-</a>
-
-<br/><br/>
-
-<a href="https://github.com/houssamb6">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight&cache_seconds=86400" />
-</a>
 </div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/houssamb6">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=houssamb6&theme=tokyonight" alt="Houssam Boussetta's Most Commit Language" />
+  </a>
+
+  <a href="https://github.com/houssamb6">
+    <img height="170" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=houssamb6&theme=tokyonight&utcOffset=1" alt="Houssam Boussetta's Productive Time" />
+  </a>
+
+</div>
+
+<br>
+
+<div align="center">
+
+  <a href="https://github.com/houssamb6">
+    <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=houssamb6&theme=tokyonight" alt="Houssam Boussetta's GitHub Profile Summary" />
+  </a>
+
+</div>
+
+<br>
+
 <hr>
 ## 🐍 My Contributions
 
